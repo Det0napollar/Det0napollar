@@ -97,15 +97,17 @@ Sou um estudante do Ensino Médio com foco avançado em Inteligência Artificial
 
 ### 📊 Estatísticas
 
-<p>
+<p align="center">
   <img
-    align="left"
-    alt="GitHub Stats"
-    height="200"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=Det0napollar&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=Det0napollar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=86400"
   />
-
+  
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Det0napollar&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=86400"
+  />
+</p>
   <img
     align="left"
     alt="Top Langs"
