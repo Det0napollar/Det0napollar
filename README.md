@@ -2,34 +2,28 @@
 
 **`Estudante de Engenharia de IA`**
 
-Estudante do Ensino Médio | Desenvolvedor Python | Inteligência Artificial | Community Manager
-Vinhedo – SP, Brasil
+Estudante do Ensino Médio | Desenvolvedor Python | Inteligência Artificial | Community Manager  
+Vinhedo – SP, Brasil  
 
 Sou um estudante do Ensino Médio com foco avançado em Inteligência Artificial, Machine Learning e desenvolvimento de sistemas para comunidades digitais. Experiência prática em projetos de IA aplicados a problemas reais, automação com Python e liderança em comunidades online de grande porte. Certificado pela NASA no programa educacional Space Center University.
+
+### 🔗 Contato
+<a href="https://discordapp.com/users/799334766825963520/">
+  <img 
+    alt="Discord"
+    title="Meu Discord"
+    src="https://img.shields.io/badge/Discord-Perfil-5865F2?style=for-the-badge&logo=discord&logoColor=white"
+  />
+</a>
+
+---
 
 ### 🎓 Formação Acadêmica
 - **NASA Space Center University** – Programa NASA Young Leaders (Houston, TX)
 - **Ensino Médio** — Em andamento  
 - **Formação Gemini Academy** — Google  
 - **Curso de Pandas** — Alura  
-- **Curso de Ciência de Dados (Em andamento)** — Alura 
-
-</a>
-<a href="https://github.com/Det0napollar?tab=stars">
-  <img
-    alt="Total de estrelas"
-    title="Total de estrelas GitHub"
-    src="https://custom-icon-badges.demolab.com/github/stars/Det0napollar?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-  />
-</a>
-<a href="https://github.com/Det0napollar?tab=followers">
-  <img
-    alt="Seguidores"
-    title="Me siga no GitHub"
-    src="https://custom-icon-badges.demolab.com/github/followers/Det0napollar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-  />
-</a>
-</p>
+- **Curso de Ciência de Dados (Em andamento)** — Alura  
 
 ---
 
@@ -94,12 +88,3 @@ Sou um estudante do Ensino Médio com foco avançado em Inteligência Artificial
 
 <br/>
 <br/>
-
-### 📊 Estatísticas
-
-<p align="center">
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=Det0napollar&show_icons=true&theme=tokyonight&include_all_commits=true&rank_icon=github&cache_seconds=86400" />
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Det0napollar&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=86400" />
-</p>
