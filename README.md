@@ -47,14 +47,6 @@ Sou um estudante do Ensino Médio com foco avançado em Inteligência Artificial
 />
 <img
   align="left"
-  alt="OpenAI"
-  title="OpenAI API"
-  width="30px"
-  style="padding-right: 10px;"
-  src="https://upload.wikimedia.org/wikipedia/commons/0/04/OpenAI_Logo.svg"
-/>
-<img
-  align="left"
   alt="HTML"
   title="HTML"
   width="30px"
