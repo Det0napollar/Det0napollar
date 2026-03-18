@@ -24,7 +24,7 @@ Sou um estudante do Ensino Médio com foco avançado em Inteligência Artificial
 - **Formação Gemini Academy** — Google  
 - **Curso de Pandas** — Alura  
 - **Curso de Ciência de Dados (Em andamento)** — Alura  
-
+- **StartSE Tomorrow Learning (Em andamento)**
 ---
 
 ### 🤖 Linguagens e Tecnologias
