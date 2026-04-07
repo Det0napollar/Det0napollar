@@ -1,33 +1,33 @@
 # 🧑‍💻 Lucas Lacerda 
 
-**`Estudante de Engenharia de IA`**
+**`AI Engineering Student`**
 
-Estudante do Ensino Médio | Desenvolvedor Python | Inteligência Artificial | Community Manager  
-Vinhedo – SP, Brasil  
+High School Student | Python Developer | Artificial Intelligence | Community Manager
+Vinhedo – SP, Brazil
 
-Sou um estudante do Ensino Médio com foco avançado em Inteligência Artificial, Machine Learning e desenvolvimento de sistemas para comunidades digitais. Experiência prática em projetos de IA aplicados a problemas reais, automação com Python e liderança em comunidades online de grande porte. Certificado pela NASA no programa educacional Space Center University.
+I am a high school student with an advanced focus on Artificial Intelligence, Machine Learning, and systems development for digital communities. I have practical experience in AI projects applied to real-world problems, automation with Python, and leadership in large-scale online communities. I am certified by NASA in the Space Center University educational program.
 
-### 🔗 Contato
+### 🔗 Contact
 <a href="https://discordapp.com/users/799334766825963520/">
   <img 
     alt="Discord"
-    title="Meu Discord"
+    title="My Discord"
     src="https://img.shields.io/badge/Discord-Perfil-5865F2?style=for-the-badge&logo=discord&logoColor=white"
   />
 </a>
 
 ---
 
-### 🎓 Formação Acadêmica
-- **NASA Space Center University** – Programa NASA Young Leaders (Houston, TX)
-- **Ensino Médio** — Em andamento  
-- **Formação Gemini Academy** — Google  
-- **Curso de Pandas** — Alura  
-- **Curso de Ciência de Dados (Em andamento)** — Alura  
-- **StartSE Tomorrow Learning (Em andamento)**
+### 🎓 Academic Training
+- **NASA Space Center University EUA** – NASA Young Leaders Program (Houston, TX)
+- **High School Brazil** — In progress
+- **Gemini Academy Training (Internet)** — Google
+- **Pandas Course** — Alura
+- **Data Science Course (In progress) ** — Alura
+- **StartSE Tomorrow Learning (In progress) (Brazil)**
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages ​​and Technologies
 
 <img
   align="left"
