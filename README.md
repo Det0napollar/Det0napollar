@@ -24,7 +24,7 @@ I am a high school student with an advanced focus on Artificial Intelligence, Ma
 - **Gemini Academy Training (Internet)** — Google
 - **Pandas Course** — Alura
 - **Data Science Course (In progress) ** — Alura
-- **StartSE Tomorrow Learning (In progress) (Brazil)**
+- **StartSE Tomorrow Learning (Brazil)**
 ---
 
 ### 🤖 Languages ​​and Technologies
